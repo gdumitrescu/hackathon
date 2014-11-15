@@ -9,6 +9,3 @@
 ## Next Event:
 
 ### World’s First Global Virtual Hackathon - [Koding](https://koding.com/Hackathon) 
-[status]: 
-- subscription [Accepted]
-- recruiting team members [In Progress]
