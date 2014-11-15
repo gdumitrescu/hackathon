@@ -5,5 +5,6 @@
 ## Next Event:
 
 ### World’s First Global Virtual Hackathon - [Koding](https://koding.com/Hackathon) 
-- Subscription Status: Accepted
-- Recruiting Status: In Progress
+[status]: 
+- subscription [Accepted]
+- recruiting team members [In Progress]
