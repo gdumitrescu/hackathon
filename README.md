@@ -1,5 +1,3 @@
-## hackathon
-
 ## Event:
 
 ### World’s First Global Virtual Hackathon - [Koding](https://koding.com/Hackathon) 
